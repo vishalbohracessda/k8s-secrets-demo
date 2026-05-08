@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/your-org/your-repo
+    repoURL: https://github.com/vishalbohracessda/k8s-secrets-demo
     targetRevision: main
     path: .
 
