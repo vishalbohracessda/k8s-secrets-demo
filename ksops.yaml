@@ -5,4 +5,4 @@ metadata:
   name: secret-generator
 
 files:
-  - secrets/db-secret.enc.yaml
+  - ./secrets/db-secret.enc.yaml
